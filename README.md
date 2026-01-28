@@ -1,16 +1,6 @@
-# flutter_iot_second_app
+## Moblie Application with Flutter&Dart
+## UI Only for HomeUI, SigninUi, SignupUi
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1170" height="2532" alt="localhost_58166_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/2d8ec4aa-7ee2-4dc4-8402-1912f021253b" />
+<img width="1170" height="2532" alt="localhost_58166_(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/3910cc22-d4b8-4684-ae59-0e9424f8eb98" />
+<img width="1170" height="2532" alt="localhost_58166_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/6b860b9e-885f-4c49-b065-3935fb3fb3a3" />
