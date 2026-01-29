@@ -32,4 +32,3 @@ class _FlutterIoTSecondAppState extends State<FlutterIoTSecondApp> {
     );
   }
 }
-  
