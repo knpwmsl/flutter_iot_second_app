@@ -1,4 +1,4 @@
-## Moblie Application with Flutter&Dart
+## Mobile Application with Flutter&Dart
 ## UI Only for HomeUI, SigninUi, SignupUi
 
 <img width="250" src="https://github.com/user-attachments/assets/2d8ec4aa-7ee2-4dc4-8402-1912f021253b" />
